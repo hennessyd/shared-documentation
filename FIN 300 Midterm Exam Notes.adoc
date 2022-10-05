@@ -1,9 +1,7 @@
 = FIN 300
 
 == Study Guide
- mostly week 5 things are going to be what the test is on
-
-
+* the test is mainly on Week 5
 
 === Chapter One
 
@@ -15,15 +13,53 @@
 * fin mgrs use *CAPITAL BUDGETING* when deciding what assets to purchase
 * they also deal with the day 2 day ops of the company, falls under the *WORKING CAPITAL MANAGEMENT* 
 ** Working capital management is a business strategy designed to ensure that a company operates efficiently by monitoring and using its current assets and liabilities to their most effective use.
+* maximize the value of the firms stock
 * *Goals of a financial manager:*
 ** Survive
 ** Avoid Bankruptcy
 ** Avoid Financial Distress
 ** Beat the Competiton
 ** Maximize Sales/Market Share
+** Minimize Costs
+** Maximize Profits 
+** Maintain Steady Earnings Growth
+* *Decisions for Financial Managers of Companies:*
+** Expand or not?
+** Increase or Keep Low Risk?
+** Strive for Market Share or Maintain (how aggressive?)
+** Borrow Money to Fund Growth?
+** How well do you want to sleep at night?
+* there are some factors that are outside of the control of fin mgrs that do affect the stock price (econ shocks, legislation, state of econ, stock market conditions, and now pandemics)
+* *Major factors that managers can affect*
+** The Firm
+** Expected Cash Flow
+* Warren Buffet says to invest in companies with strong leadership that has integrity, honesty, intelligence and energy
+* *How do we get financial managers to be better aligned with the goals of shareholders?*
+** BOD: *Board of Directors*
+*** many boards have been under fire for the past 10 yrs or so 
+** Align Compensation with the performance of the stock
+** Hire managers with integrity
+** Activist Investors 
+*** Publishing managers performance publically to allow active investors 
+** Threat of take over
 
 .Stakeholder Theory
-* 
+* Stakeholder types
+** 1. Shareholders 
+** 2. Employees
+** 3. Clients/Customers
+** 4. Suppliers
+** 5. The Community
+** 6. Government
+** 7. Creditors
+** 8. Managers
+** 9. Regulators
+** 10. Competitors
+** 11. The Environment
+** 12. Social Media
+* Stakeholders will generally have different interest and goals than the owners of the company
+** this leads to financial managers having an *AGENCY PROBLEM8*
+
 
 .Capital budgeting and financing decisions: 
 * 
