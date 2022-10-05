@@ -105,17 +105,45 @@
 
 === Chapter Two
 
-.FED - goals and tools: 
-* 
+.*FED - goals and tools*: 
+* *Five major goals of the FED*
+** *Price Stability*
+*** since 1970s efforts to control inflation has been a major goal and effort of the FED. The FED has an inflation goal of *2%*. Currently it is running at a rate of 9% and the way to slow demand is to raise the interest rates and to decrease the amount of money is in the market in order to strangle demand. That is what Powell (*Chair of the Federal Reserve*) is currently doing.
+** *Full employment*
+*** the fed considers 4% unemployment to classify whether or not the country is fully employed, they aim for a rate between 4% - 6% (now sitting a 3.6%)
+** *Sustained Economic Growth*
+*** then fed would like the GDP (gross domestic product) to be within the range of 2% - 3%, currently it is sitting at 3.5% but this is expected to drop through this year
+** *Having Better Payment Stability v. Foreign Entities*
+** Protect the value of the dollar (MORAL SUASION)
+*** *Moral Suasion* - the use of non physical/overty coercion means such as rhetorical appeals, persuasion or explicit threats in order to pursuade someone
+* what the FED says about the present and the future carries a lot of weight.  There are so called FED WATCHERS who work at Wall Street banks that their job is to interrupt what the FED is saying.
+* Many of the FED's policies are conflicting. 
+* *Tools used by the FED:*
+** *Discount Rate* - this is the rate charged by banks who borrow short term money from the FED it is currently 1.75% One year ago, it was .25%
+*** *why borrow?* banks so often borrow from the FED in order to maintain their prescribed reserve requiremnents 
+** *FED Open Market operations*
+*** this has become the most important tool in the FED's *tool box*
+*** *REPOS* - repurchase agreement that is a short term loan to *primary dealers* that are generally short term in nature.
+**** *Primary Dealers* - banks or brokers that are sanctioned to trade US gov securities
+** *Reserve Requirements* - a % of money deposited into a bank that a bank has to hold in order to make sure in the case of mass quick withdrawls that they can cover their liabilities
+* *Exchange Rates*
+* *Moral Suassion*
+* *FEDS FUND RATE* - this is the target interest rate set by the Federal Open Market Committee (FOMC), it is the rat eat which commercial banks borrow and lend their excess reserves to each other overnight
+** *FOMC* - meets 8 times a year to set the targe tfederal funds rate which is par tof its monetary policy, and used to promote econ growth, from 2008 - 2016 the *FED FUINDS* rate was vitually 0
+** currentrange is 1.5% - 1.75%
 
-.Financial Markets:
-* 
+.*Financial Markets*:
+* a mechanism for which people with excess money invest/lend money to people/business in need of capital
+** The US financial system is considered to be the most efficient in the world
+** funds can flow *directly* thru the financial markets and *indirectly* through financial institutions
 
-.Primary v. Secondary Markets: 
-* 
+.*Primary v. Secondary Markets*: 
+* *Primary Dealers* - banks or brokers that are sanctioned to trade US gov securities they are the first ones to own securites issued by the fed
+* *Secondary Dealers* - investors who buy and sell securities on exchanges and do not directly interact with the fed
 
 .EMH:
-* 
+* the *EFFICIENT MARKET HYOPTHESIS*, It argues tha tall information which goes into the pricing of financial instruments is readily availible to all borrowers and lenders at a negligible cost. Basically all investors are looking at the same information and that there should be no excessive returns.
+** Both Kendell (1950’s) and Malkeil (Princeton) have done work on EMH stating that price changes should be random and unpredictable  and that prices of assets follow a RANDOM WALK.  They state that the markets are not irrational (this is highly debatable).   Malkeil has acknowledged that NEWS interpretation sets new recurring equilibriums in the marketplace
 
 .Real v. Nominal Interest Rates:
 * 
