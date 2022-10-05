@@ -1,0 +1,150 @@
+= FIN 300
+
+== Study Guide
+ mostly week 5 things are going to be what the test is on
+
+
+
+=== Chapter One
+
+.The role of the financial manager:
+* as a fin manager you want to make decisions that create value in particular *long term value*
+* fin mgrs face what is called the *Agency Problem*
+** this mean that when they are taking into consideration all of the stakeholders and how an outcome will affect them sometimes they may have a conflict of interest that they have to deal with.
+* goal is to select assets that will generate the greatest *CASH FLOWS* for the owners of the company.
+* fin mgrs use *CAPITAL BUDGETING* when deciding what assets to purchase
+* they also deal with the day 2 day ops of the company, falls under the *WORKING CAPITAL MANAGEMENT* 
+** Working capital management is a business strategy designed to ensure that a company operates efficiently by monitoring and using its current assets and liabilities to their most effective use.
+* *Goals of a financial manager:*
+** Survive
+** Avoid Bankruptcy
+** Avoid Financial Distress
+** Beat the Competiton
+** Maximize Sales/Market Share
+
+.Stakeholder Theory
+* 
+
+.Capital budgeting and financing decisions: 
+* 
+
+.Goal of the firm:
+* 
+
+.Agency Conflicts/Relationships:
+* 
+
+.Alignment of goals of shareholders to managers:
+* 
+
+.Sarbanes Oxley:
+* 
+
+=== Chapter Two
+
+.FED - goals and tools: 
+* 
+
+.Financial Markets:
+* 
+
+.Primary v. Secondary Markets: 
+* 
+
+.EMH:
+* 
+
+.Real v. Nominal Interest Rates:
+* 
+
+.Basics of the Fisher Equation:
+* 
+
+=== Chapter Three
+
+.Annual report:  balance sheet, income statement and RE statement: 
+* 
+
+.Statement of Cashflows:
+* 
+
+.Current Assets and Liabilities: 
+* 
+
+.Net Working Capital:
+* 
+
+.Equity:
+* 
+
+.What is treasury stock:
+* 
+
+.Market Value v. Book Value:
+* 
+
+.Basics of impact of taxes on Corporations:
+* 
+
+=== Chapter Four
+
+.Financial ratios, performance, and interpretation of ratios: 
+* 
+
+.ROE, current ratio, quick ratio, inventory turnover, total asset turnover, debt ratios, equity multiplier, profit margins, ROA, EPS, PE, market to book, Dupont formula, enterprise value:
+* 
+
+.Trend Analysis: 
+* 
+
+.Peer Analysis:
+* 
+
+=== Chapter Five
+
+.TVM
+* 
+
+.Future Value, and how to compute it:
+*
+
+.Present Value, and how to compute it:
+*
+
+.Compounding
+* 
+
+.Continuous Compounding
+* 
+
+.Discounting
+*
+
+=== Chapter Six
+
+.Cash flows over time
+* 
+
+.PV of multiple cash flows
+*
+
+.Annuities (ordinary and annuity due)
+* 
+
+.PV of an annuity
+*
+
+.Amortization
+*
+
+.FV of an annuity
+* 
+
+.Basics of Perpetuity
+* 
+
+.Preferred Stock Dividends
+*
+
+.EAR/APR
+* 
