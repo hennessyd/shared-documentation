@@ -5,7 +5,8 @@
 
 === Chapter One
 
-.The role of the financial manager:
+
+.*The role of the financial manager:*
 * as a fin manager you want to make decisions that create value in particular *long term value*
 * fin mgrs face what is called the *Agency Problem*
 ** this mean that when they are taking into consideration all of the stakeholders and how an outcome will affect them sometimes they may have a conflict of interest that they have to deal with.
@@ -35,7 +36,7 @@
 ** Expected Cash Flow
 * Warren Buffet says to invest in companies with strong leadership that has integrity, honesty, intelligence and energy
 * *How do we get financial managers to be better aligned with the goals of shareholders?*
-** BOD: *Board of Directors*
+** BOD: (*Board of Directors*)
 *** many boards have been under fire for the past 10 yrs or so 
 ** Align Compensation with the performance of the stock
 ** Hire managers with integrity
@@ -43,8 +44,12 @@
 *** Publishing managers performance publically to allow active investors 
 ** Threat of take over
 
-.Stakeholder Theory
-* Stakeholder types
+
+.*Stakeholder Theory:*
+* *Stakeholder Theory* - this is a view of capitalismn that stresses the interconnected relationships between a business and its customers, suppliersk, employees, investors, communities and others who have a stake in the organization  
+
+
+* *Stakeholder Types Examples:*
 ** 1. Shareholders 
 ** 2. Employees
 ** 3. Clients/Customers
@@ -58,23 +63,45 @@
 ** 11. The Environment
 ** 12. Social Media
 * Stakeholders will generally have different interest and goals than the owners of the company
-** this leads to financial managers having an *AGENCY PROBLEM8*
+** this leads to financial managers having an *AGENCY PROBLEM*
 
 
-.Capital budgeting and financing decisions: 
-* 
+.*Capital budgeting and financing decisions:* 
+* *Capital Budgeting* - it is the decision making proccess through which financial managers use to make decisions about which productive assets to aquire
+** a company might assess a prospective project's lifetime cash inflows and outflows to determine whether the potential returns that would be generated meet a sufficient target benchmark. The capital budgeting process is also known as investment appraisal
+* *Financing Decisions* - determining how a firm should finance or pay for the assets that are being evaluated. 
+** There are generally two basic ways for the firm to pay for these productive assets:  
+*** 1.  *Equity* (i.e. Issuance of stock…….stockholders OWN the company)
+*** 2.  *Debt* (i.e. Issuance of bonds…….bondholders are creditors of the company)
 
-.Goal of the firm:
-* 
 
-.Agency Conflicts/Relationships:
-* 
+.*Goal of the firm:*
+* The goal of the firm should be to maximize the stock value of the firm
 
-.Alignment of goals of shareholders to managers:
-* 
 
-.Sarbanes Oxley:
-* 
+.*Agency Conflicts/Relationships:*
+* when they are taking into consideration all of the stakeholders and how an outcome will affect them sometimes they may have a conflict of interest that they have to deal with.
+* When talking about Agency conflicts there are two key figures
+** *Principle* - the entity that hires the *agents* that do work on behalf of the *principle* Ex. a company 
+** *Agents* - the entity that is hired by the *principle* entity in order to carry out work on behalf of that entity. Managers are legally considered *agents* and have the obligation to put the shareholders(*principle*) above their own. *agents* are the ones who have the duty to report to principles if they have a conflict of interest 
+* These conflicts specifically are called *agency conflicts*
+
+
+.*Alignment of goals of shareholders to managers*:
+* *How do we get financial managers to be better aligned with the goals of shareholders?*
+** BOD: (*Board of Directors*)
+*** many boards have been under fire for the past 10 yrs or so 
+** Align Compensation with the performance of the stock
+** Hire managers with integrity
+** Activist Investors 
+*** Publishing managers performance publically to allow active investors 
+** Threat of take over
+
+
+.*Sarbanes Oxley*:
+* The Sarbanes-Oxley Act of 2002 (aka SOX Act)
+** by U.S. Congress to help protect investors from fraudulent reporting by corporations
+** mandated strict reforms on the current regulations at the time and imposed very big fines for people who were to break these laws in the future.
 
 === Chapter Two
 
